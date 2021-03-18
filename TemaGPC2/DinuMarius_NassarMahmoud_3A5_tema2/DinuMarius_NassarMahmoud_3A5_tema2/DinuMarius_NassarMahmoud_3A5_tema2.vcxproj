@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DinuMarius_NassarMahmoud_3A5_tema2.cpp" />
+    <ClCompile Include="T5_DinuMarius_NassarMahmoud.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="glut.def" />
